@@ -1,0 +1,233 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .head {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 5px;
+    overflow: hidden;
+    background-color: darkgrey;
+  }
+  
+  .logo-here {
+    border: 2px solid;
+    float: left;
+    width: 20%;
+    height: 100px;
+    text-align: center;
+    background-color: cyan;
+  }
+  
+  .Any {
+    border: 2px solid;
+    float: left;
+    width: 35%;
+    height: 100px;
+    margin-left: 33px;
+    background-color: red;
+  }
+  
+  .home {
+    border: 2px solid;
+    width: 40%;
+    float: right;
+    height: 100px;
+    background-color: blueviolet;
+  }
+  
+  .provide {
+    border: 2px solid;
+    padding: 20px;
+    overflow: hidden;
+    height: 300px;
+  }
+  
+  .service {
+    text-align: center;
+    border: 2px solid;
+    width: 49%;
+    height: 284px;
+    float: left;
+  }
+  
+  .package {
+    border: 2px solid;
+    height: 244px;
+    width: 46%;
+    float: right;
+    padding: 20px;
+  }
+  
+  .basic {
+    border: 2px solid;
+    float: left;
+    height: 225px;
+    width: 170px;
+  }
+  
+  .silver {
+    border: 2px solid;
+    float: left;
+    height: 225px;
+    width: 170px;
+    margin-left: 94px;
+  }
+  
+  .gold {
+    border: 2px solid;
+    float: right;
+    height: 225px;
+    width: 143px;
+  }
+  
+  .heda {
+    text-align: center;
+  }
+  
+  .uff {
+    text-align: center;
+  }
+  
+  .bujhlam {
+    text-align: center;
+  }
+  
+  .na {
+    text-align: center;
+  }
+  
+  .we {
+    text-align: center;
+  }
+  
+  .mamu {
+    text-align: left;
+    margin-left: 2px;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .head {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 5px;
+    overflow: hidden;
+    background-color: darkgrey;
+  }
+  
+  .logo-here {
+    border: 2px solid;
+    float: left;
+    width: 20%;
+    height: 100px;
+    text-align: center;
+    background-color: cyan;
+  }
+  
+  .Any {
+    border: 2px solid;
+    float: left;
+    width: 35%;
+    height: 100px;
+    margin-left: 33px;
+    background-color: sandybrown;
+  }
+  
+  .home {
+    border: 2px solid;
+    width: 40%;
+    float: right;
+    height: 100px;
+    background-color: blueviolet;
+  }
+  
+  .provide {
+    border: 2px solid;
+    padding: 20px;
+    overflow: hidden;
+    height: 300px;
+  }
+  
+  .service {
+    text-align: center;
+    border: 2px solid;
+    width: 49%;
+    height: 284px;
+    float: left;
+  }
+  
+  .package {
+    border: 2px solid;
+    height: 244px;
+    width: 46%;
+    float: right;
+    padding: 20px;
+  }
+  
+  .basic {
+    border: 2px solid;
+    float: left;
+    height: 225px;
+    width: 170px;
+  }
+  
+  .silver {
+    border: 2px solid;
+    float: left;
+    height: 225px;
+    width: 170px;
+    margin-left: 94px;
+  }
+  
+  .gold {
+    border: 2px solid;
+    float: right;
+    height: 225px;
+    width: 143px;
+  }
+  
+  .heda {
+    text-align: center;
+  }
+  
+  .uff {
+    text-align: center;
+  }
+  
+  .bujhlam {
+    text-align: center;
+  }
+  
+  .na {
+    text-align: center;
+  }
+  
+  .we {
+    text-align: center;
+  }
+  
+  .mamu {
+    text-align: left;
+    margin-left: 293px;
+  }
+  
+  .basic {
+  }
+  .basic h1 {
+  }
+  .bsicInfo {
+  }
+  .bsicInfo button {margin: 53px 0px 0px 42px;
+    padding: 10px 8px;border;
+    border-radius: 10px;
+    background: blueviolet;
+    
+
+}
+  
+    .bsicInfo button:hover{
+        background-color: red;
+        transition:0.4s all ease-in-out;
+        color: #fff;
+
+    }
